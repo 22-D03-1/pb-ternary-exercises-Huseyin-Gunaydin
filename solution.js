@@ -42,7 +42,7 @@
 
 // Password das der Nutzer eingegeben hat
 // Zum Testen verändern
-let password = "testtttt";
+let password = "testtttt!";
 // State Variablen
 let isPasswordSafe = true;
 
