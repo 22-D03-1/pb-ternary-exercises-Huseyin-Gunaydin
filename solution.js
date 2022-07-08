@@ -92,3 +92,6 @@ if (isPasswordSafe) {
 
 // Du erschließt dir aus Fantasias Kommentaren die wahre Aufgabe des Codes und findest heraus was er tun soll. Anschließend korrigierst du Fantasias Code (Das nennt man auch refactoring) und kommentierst in jeder Zeile welche Fehler sie gemacht hat (Das nennt man code review).
 // Wenn alle Fehler beseitigt sind kannst du Fantasia auch noch Tipps für “besseren” Code geben.
+
+
+
